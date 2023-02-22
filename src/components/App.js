@@ -18,3 +18,11 @@ function App() {
 }
 
 export default App;
+
+//
+// app
+//   - header
+//   - shopping list
+//     - item form 
+//     - filter
+//     - item
